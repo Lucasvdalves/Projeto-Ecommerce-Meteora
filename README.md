@@ -17,8 +17,8 @@ To run the METEORA Clothing Store locally, follow these steps:
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/your-username/METEORA.git
+Copy code 
+git clone https://github.com/Lucasvdalves/Projeto-Ecommerce-Meteora/
 Navigate to the project's directory:
 
 bash

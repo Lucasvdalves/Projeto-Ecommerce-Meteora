@@ -1,35 +1,45 @@
-# Projeto Ecommerce Meteora
+# 🛍️ Projeto Ecommerce Meteora
 
-## Description
-Meteora is a modern and responsive e-commerce landing page built with HTML, CSS, and JavaScript. It showcases product listings, categories, promotions, and a user-friendly interface. This project is focused on frontend development, emphasizing responsiveness and visual aesthetics.
+## 📌 About the Project
+Ecommerce Meteora is a modern and responsive e-commerce landing page developed with HTML, CSS, and Bootstrap. The goal of this project is to simulate a front-end layout for a fashion-focused online store, allowing users to explore collections, promotions, and product categories.
 
-## Features
-- Fully responsive design
-- Product showcase grid
-- Category filters
-- Promotional banners
-- Simple navigation bar and footer
+## 💡 Features
+- Responsive design using Bootstrap
+- Product cards with pricing and descriptions
+- Category filtering with buttons
+- Banner carousel for promotional highlights
+- Accessible and semantic HTML structure
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML5
-- CSS3 (Flexbox & Grid)
-- JavaScript (vanilla)
-
-## How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Lucasvdalves/Projeto-Ecommerce-Meteora.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd Projeto-Ecommerce-Meteora
-   ```
-3. Open `index.html` in your browser.
+- CSS3
+- Bootstrap 5
 
 
-## License
-This project is open-source and available under the MIT License.
+## 📁 Folder Structure
+```
+├── index.html
+├── /css
+│   └── styles.css
+├── /img
+│   └── (images used in the project)
+```
 
----
-Built with passion by [Lucas Damasceno](https://www.linkedin.com/in/lucas-damasceno-821983169/)
+## 🚀 Getting Started
+To view the project:
+1. Clone the repository
+2. Open `index.html` in your browser
 
+```bash
+git clone https://github.com/Lucasvdalves/Projeto-Ecommerce-Meteora.git
+cd Projeto-Ecommerce-Meteora
+start index.html
+```
+
+## 🎯 Future Improvements
+- Add backend integration for product listing
+- Implement cart functionality
+- Improve accessibility and SEO tags
+
+## 📄 License
+This project is licensed under the MIT License.

@@ -26,8 +26,6 @@ Meteora is a modern and responsive e-commerce landing page built with HTML, CSS,
    ```
 3. Open `index.html` in your browser.
 
-## Screenshots
-_Add your screenshots here if desired._
 
 ## License
 This project is open-source and available under the MIT License.
